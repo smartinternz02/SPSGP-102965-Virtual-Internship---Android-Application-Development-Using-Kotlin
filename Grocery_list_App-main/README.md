@@ -15,3 +15,21 @@ Prerequisites
 To complete the project successfully, you need to install:
 - [Android Studio](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
 # Grocery_list_App
+
+
+# About Me
+
+
+## My name is Anand jasal
+
+Smartinternz Dashboard Link-== https://smartinternz.com/student/profile
+
+Google Developer Profile Link- https://g.dev/Anandjasal 
+Project - Grocery Android App
+This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
+
+As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+
+
+# Video Demo link :- https://drive.google.com/file/d/1RPacxnKA_wCQHm0j3imnyyjUPxAW6_Xg/view?usp=drivesdk
+
