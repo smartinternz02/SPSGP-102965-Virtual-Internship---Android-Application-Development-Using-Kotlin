@@ -25,6 +25,8 @@ To complete the project successfully, you need to install:
 Smartinternz Dashboard Link-== https://smartinternz.com/student/profile
 
 Google Developer Profile Link- https://g.dev/Anandjasal 
+
+
 Project - Grocery Android App
 This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
 
